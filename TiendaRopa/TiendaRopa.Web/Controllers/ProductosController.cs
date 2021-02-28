@@ -7,7 +7,7 @@ using TiendaRopa.Web.Models;
 
 namespace TiendaRopa.Web.Controllers
 {
-    public class ProdutosController : Controller
+    public class ProductosController : Controller
     {
         // GET: Produtos
         public ActionResult Index()
